@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\MonoBehaviours\Camera\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\MonoBehaviours\Camera\CameraFollowPlayer.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviours\DataPersistence\BehaviourEnableStateSaver.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviours\DataPersistence\DataResetter.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviours\DataPersistence\GameObjectActivitySaver.cs" />
